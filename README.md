@@ -1,6 +1,6 @@
 # MYJ Password Generator
 
-Code for [NAME].
+Code for MYJ Password Generator.
 
 ---
 
